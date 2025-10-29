@@ -14,7 +14,8 @@ Compares yesterday vs same weekday last week (AP1).
 Highlights top gainers/losers by brand and campaign type (PMax, Search, Shopping).
 Enables quick budget reallocation and optimization decisions.
 
-**Impact**
-✅ Reduced manual analysis time by 80%
-✅ Improved transparency across brands & geographies
-✅ Enabled data-driven marketing decisions daily
+**Business Impact:**
+⏱️ Reduced daily analysis time by 80%, enabling real-time campaign optimization.
+💰 Improved budget efficiency by 15–20% by identifying high-CPC, low-RFQ campaigns early.
+📈 Guided data-backed scaling decisions for top-performing brands (e.g., +20% RFQs from .com/.au markets).
+🤝 Strengthened collaboration between marketing, sales, and product through transparent performance visibility.
